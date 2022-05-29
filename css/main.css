@@ -3404,4 +3404,5 @@ input.num-product::-webkit-inner-spin-button {
       -ms-flex-align: center;
           align-items: center;
   text-align: center;
+  color: #000;
 }
