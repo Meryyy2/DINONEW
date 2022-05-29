@@ -5,6 +5,7 @@
 html {
   box-sizing: border-box;
   -ms-overflow-style: scrollbar;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 *,
